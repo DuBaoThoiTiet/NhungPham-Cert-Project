@@ -2,3 +2,6 @@
 
 https://drive.google.com/drive/folders/1HOHGc2jrawUHEUenKB3AtNyl_wg2r0SN?usp=sharing
 
+Đồ án Automation Testing Project - Bookstore Website (Tester)
+
+https://drive.google.com/drive/folders/1-qKU0uxsKf00f28mQjbO_oH1u0rKOAvi?usp=sharing
